@@ -357,3 +357,23 @@ exports.delete = function (req, res) {
 }
 
 //End of code here
+
+//References
+//Cayer, W. (2023, January 18). [Personal interview by A. Cayer].
+//Talked with my mother regarding information on curling such as what names are called in Curling, eliminate shots, and shots that stay in play.
+//Debug Everything. (n.d.). Javascript filter method 4 tips on how to use efficiently. [Debug Everything]. https://blog.debugeverything.com/javascript-filter-method-4-tips-on-how-to-use-efficiently/
+//Referred to this source in terms of filtering outside of Postman and running index4.js due to filtering function not working properly within Postman possibly because //of a routes issue.
+//Mdn web docs. (n.d.). Array.prototype.sort(). Retrieved February 19, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+//Referred to this site to help me regarding testing sorting outside of utilizing Postman and from the accsc560a3p2new4 folder from the MERN4 folder, since routes wasn't //working properly.
+//NBC Universal. (2021, October 6). Curling 101: Glossary. https://www.nbcolympics.com/news/curling-101-glossary#:~:text=Rings%3A%20Another%20term%20for%20the,the%20third%20and%20the%20skip.
+//Another site that includes curling terms like rink. Although did not refer to this site that much since I talked to a family member who plays curling, I did re-check //this sight to make sure I was using the rink term correctly.
+//Programming with Mosh. (2018, March 8). How to build a REST API with Node js & Express [Video]. YouTube. https://www.youtube.com/watch?v=pKd0Rpw7O48
+//Referred to this video regarding how to allow the code to utilize query parameters in application like Postman. Also, explains the purpose behind query parameters and how to write code for the other HTTP techniques within Postman with an example.
+//Raj, A. (2021, September 2). Sort array of JSON object by key value easily with JavaScript. Dev. Retrieved February 19, 2023, from https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke
+//Another source I referred to when testing sorting outside of using Postman. Also, gave me idea to visit the Mdn Web docs page regarding the sort technique.
+//Rascia, T. (2020, September 9). REST API: Sorting, Filtering, and Pagination. Taniarascia.com. Retrieved February 19, 2023, from https://www.taniarascia.com/rest-api-sorting-filtering-pagination/
+//Referred to this site to determine which HTTP method would be best for filtering and sorting and some examples of how to utilize query parameters. Gave me idea of //attempting to do sorting and filtering for routes.js and curlingbioController.js files.
+//Timalsina, S. (2020, March 23). Create your First REST API with Node.js, Express, and MongoDB. Medium. Retrieved February 19, 2023, from //https://articles.wesionary.team/create-your-first-rest-api-with-node-js-express-and-mongodb-447fce535385
+//Referred to this tutorial as a base in order to build up the files necessary to list players of two Curling teams, which comes to a total of 8 players. Did add two //additional players as sub or substitute players for uses of updating, adding, and deletion purposes.
+
+
