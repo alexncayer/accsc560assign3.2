@@ -361,6 +361,7 @@ exports.delete = function (req, res) {
 //References
 //Cayer, W. (2023, January 18). [Personal interview by A. Cayer].
 //Talked with my mother regarding information on curling such as what names are called in Curling, eliminate shots, and shots that stay in play.
+//Database Administrators. (2022, December). Unable to use Mongodb in NodeJS. StackExchange. Retrieved February 19, 2023, from https://dba.stackexchange.com/questions/321113/unable-to-use-mongodb-in-nodejs
 //Debug Everything. (n.d.). Javascript filter method 4 tips on how to use efficiently. [Debug Everything]. https://blog.debugeverything.com/javascript-filter-method-4-tips-on-how-to-use-efficiently/
 //Referred to this source in terms of filtering outside of Postman and running index4.js due to filtering function not working properly within Postman possibly because //of a routes issue.
 //Mdn web docs. (n.d.). Array.prototype.sort(). Retrieved February 19, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
